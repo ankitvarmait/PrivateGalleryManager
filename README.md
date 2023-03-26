@@ -1,4 +1,4 @@
-# Visual Stuio Extension - PrivateGallery Manager
+# Visual Studio Extension - PrivateGallery Manager
 
 A Visual Studio Extension, that allows you to create or update the Private Gallery directly from Visual Studio. 
 
